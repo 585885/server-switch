@@ -1,9 +1,0 @@
-{
-  "id": "server-switch",
-  "name": "ServerSwitch",
-  "version": "1.0.0",
-  "description": "Velocity服务器切换插件 - 支持命令和GUI菜单",
-  "authors": ["Example"],
-  "dependencies": [],
-  "main": "com.example.serverswitch.ServerSwitchPlugin"
-}
